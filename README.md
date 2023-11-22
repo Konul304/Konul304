@@ -15,5 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Konul304's GitHub stats](https://github-readme-stats.vercel.app/api?username=Konul304&show_icons=true&theme=synthwave)](https://github.com/Konul304github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Konul304&layout=compact)](https://github.com/Konul304/github-readme-stats)
+
+<a href="https://github.com/Konul304/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Konul304&show_icons=true&theme=synthwave" />
+</a>
+<a href="https://github.com/Konul304/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Konul304&layout=compact&langs_count=8&card_width=320" />
+</a>
