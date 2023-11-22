@@ -16,10 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-     <!-- <a href="https://github.com/Konul304/convoychat">
-        <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=Konul304&layout=compact&langs_count=8&card_width=320" />
-      </a>
-    </td>-->
+ 
  
 
 <table width="100%" border="0">
