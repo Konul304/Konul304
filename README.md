@@ -15,15 +15,21 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div style="text-align: center;">
-  <a height=200 href="https://git.io/streak-stats"><img style="margin: 0 auto;" src="https://github-readme-streak-stats.herokuapp.com?user=Konul304&theme=tokyonight&hide_border=true" alt="GitHub Streak" /></a>
-</div>
+<table width="100%">
+  <tr>
+    <td align="center">
+      <a height=200 href="https://git.io/streak-stats"><img style="margin: 0 auto;" src="https://github-readme-streak-stats.herokuapp.com?user=Konul304&theme=tokyonight&hide_border=true" alt="GitHub Streak" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Konul304/github-readme-stats">
+        <img height=200 src="https://github-readme-stats.vercel.app/api?username=Konul304&show_icons=true&theme=synthwave&rank_icon=github" />
+      </a>
+      <a href="https://github.com/Konul304/convoychat">
+        <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=Konul304&layout=compact&langs_count=8&card_width=320" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-<div>
-  <a href="https://github.com/Konul304/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Konul304&show_icons=true&theme=synthwave&rank_icon=github" />
-  </a>
-  <a href="https://github.com/Konul304/convoychat">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Konul304&layout=compact&langs_count=8&card_width=320" />
-  </a>
-</div>
