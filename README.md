@@ -19,7 +19,7 @@ Here are some ideas to get you started:
  
  
 
-<table width="100%" border="0" align="center">
+<table width="100%" border="none" align="center">
   <tr>
     <td align="center">
       <a height=200 href="https://git.io/streak-stats"><img style="margin: 0 auto;" src="https://github-readme-streak-stats.herokuapp.com?user=Konul304&theme=tokyonight&hide_border=true" alt="GitHub Streak" /></a>
