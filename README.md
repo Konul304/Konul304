@@ -19,12 +19,12 @@ Here are some ideas to get you started:
  
  
 
-<table width="100%" border="none" align="center">
+<table width="100%" border="0" align="center">
   <tr border="none">
-    <td align="center" border="none">
+    <td align="center" border="0">
       <a height=200 href="https://git.io/streak-stats"><img style="margin: 0 auto;" src="https://github-readme-streak-stats.herokuapp.com?user=Konul304&theme=tokyonight&hide_border=true" alt="GitHub Streak" /></a>
     </td>
-    <td align="center" border="none">
+    <td align="center" border="0">
       <a href="https://github.com/Konul304/github-readme-stats">
         <img height=200 src="https://github-readme-stats.vercel.app/api?username=Konul304&show_icons=true&theme=synthwave&rank_icon=github&hide_border=true" />
       </a>
