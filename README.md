@@ -22,3 +22,4 @@ Here are some ideas to get you started:
 <a href="https://github.com/Konul304/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Konul304&layout=compact&langs_count=8&card_width=320" />
 </a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Konul304&theme=tokyonight&hide_border=true" alt="GitHub Streak" /></a>
