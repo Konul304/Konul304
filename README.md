@@ -24,7 +24,7 @@ Here are some ideas to get you started:
   <tr>
     <td align="center">
       <a href="https://github.com/Konul304/github-readme-stats">
-        <img height=200 src="https://github-readme-stats.vercel.app/api?username=Konul304&show_icons=true&theme=synthwave&rank_icon=github" />
+        <img height=200 src="https://github-readme-stats.vercel.app/api?username=Konul304&show_icons=true&theme=synthwave&rank_icon=github&hide_border=true" />
       </a>
       <a href="https://github.com/Konul304/convoychat">
         <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=Konul304&layout=compact&langs_count=8&card_width=320" />
