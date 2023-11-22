@@ -24,13 +24,12 @@ Here are some ideas to get you started:
     <td align="center">
       <a height=200 href="https://git.io/streak-stats"><img style="margin: 0 auto;" src="https://github-readme-streak-stats.herokuapp.com?user=Konul304&theme=tokyonight&hide_border=true" alt="GitHub Streak" /></a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/Konul304/github-readme-stats">
         <img height=200 src="https://github-readme-stats.vercel.app/api?username=Konul304&show_icons=true&theme=synthwave&rank_icon=github&hide_border=true" />
       </a>
     </td>
   </tr>
+ 
 </table>
 
