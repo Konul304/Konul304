@@ -20,11 +20,11 @@ Here are some ideas to get you started:
  
 
 <table width="100%" border="none" align="center">
-  <tr>
-    <td align="center">
+  <tr border="none">
+    <td align="center" border="none">
       <a height=200 href="https://git.io/streak-stats"><img style="margin: 0 auto;" src="https://github-readme-streak-stats.herokuapp.com?user=Konul304&theme=tokyonight&hide_border=true" alt="GitHub Streak" /></a>
     </td>
-    <td align="center">
+    <td align="center" border="none">
       <a href="https://github.com/Konul304/github-readme-stats">
         <img height=200 src="https://github-readme-stats.vercel.app/api?username=Konul304&show_icons=true&theme=synthwave&rank_icon=github&hide_border=true" />
       </a>
