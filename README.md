@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Konul304's GitHub stats](https://github-readme-stats.vercel.app/api?username=Konul304&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/Konul304github-readme-stats)
+[![Konul304's GitHub stats](https://github-readme-stats.vercel.app/api?username=Konul304)](https://github.com/Konul304github-readme-stats)
 
